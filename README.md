@@ -11,7 +11,7 @@ The talk will be beginner-friendly for anyone who has never used Kotlin before.
 
 This repository contains a single Kotlin file `Main.kt` that contains the code snippets in my slides.
 
-Link to slides: [here]()
+Link to slides: [here](https://www.canva.com/design/DAFPAaMVk4A/4Z1btTlhHBqzx3T1sjGZCg/edit?utm_content=DAFPAaMVk4A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## LICENSE
 This repo was created by Ian Okumu and served for use under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
